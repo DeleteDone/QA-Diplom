@@ -23,7 +23,7 @@
 
 #### Подготовлены отчёты:
 * [Отчёт Gradle](https://github.com/DeleteDone/QA-Diplom/issues/13)
-* [Отчёт Allure](https://github.com/DeleteDone/QA-Diplom/issues/14)
+* [Отчёт Allure](https://github.com/DeleteDone/QA-Diplom/issues/2)
 
 ### Общие рекомендации
 * Устранить выявленные баги. Указаны в [issue](https://github.com/DeleteDone/QA-Diplom/issues/1);
