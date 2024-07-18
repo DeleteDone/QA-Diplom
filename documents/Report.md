@@ -22,11 +22,11 @@
 * 14 не успешных – что составляет 37 %
 
 #### Подготовлены отчёты:
-* [Отчёт Gradle](https://github.com/Volgogradec/QA-Diplom/issues/13)
-* [Отчёт Allure](https://github.com/Volgogradec/QA-Diplom/issues/14)
+* [Отчёт Gradle](https://github.com/DeleteDone/QA-Diplom/issues/13)
+* [Отчёт Allure](https://github.com/DeleteDone/QA-Diplom/issues/14)
 
 ### Общие рекомендации
-* Устранить выявленные баги. Указаны в [issue](https://github.com/Volgogradec/QA-Diplom/issues);
+* Устранить выявленные баги. Указаны в [issue](https://github.com/DeleteDone/QA-Diplom/issues);
 * Визуально отделить способы оплаты (например, сделать разный фон вкладок);
 * Кнопки "Купить" и "Купить в кредит" при нажатии должны изменять цвет, означающий активность выбранного способа оплаты;
 * Кнопка "Продолжить" должна становиться активной при отсутствии ошибок при заполнении полей формы.
